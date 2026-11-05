@@ -1,0 +1,8 @@
+.env
+.env.*
+openclaw.json
+/sword*
+/.sword.swp
+/stopped
+/gitignore
+*.swp
